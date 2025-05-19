@@ -7,7 +7,7 @@ disabled = true
 success_symbol = "[ ](bold cyan)"
 
 [username]
-style_user = "bold green"
+style_user = "bold cyan"
 show_always = true 
 
 [git_commit]
